@@ -1,4 +1,4 @@
-cdn: / #静态文件与主站用的，例如填写https://aa.com/ 注意末尾要加上/ 以下各种链接都会加上这个前缀，注意字体文件跨域问题。
+cdn:  #静态文件与主站用的，例如填写https://aa.com/ 注意末尾要加上/ 以下各种链接都会加上这个前缀，注意字体文件跨域问题。
 favicon: https://files.seeusercontent.com/2026/03/16/xoG7/favicon.ico
 headerbg: headerbg/13.html #头部背景特效,内置13个特效,可以直接访问headerbg/*.html 查看
 
