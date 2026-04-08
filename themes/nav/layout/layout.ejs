@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="<%= config.language %>">
+<% const setting = page ? Object.assign({}, theme, page) : theme %>
+<% if (is_home()) { %>
+<%- partial('common/header', {setting:setting}) %>
+<%- body %>
+<% } else if (page.title === 'go') { %>
+  <%- partial('go') %>
+<% } %>
+
+</html>

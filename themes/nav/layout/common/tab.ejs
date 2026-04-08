@@ -1,0 +1,28 @@
+<div class="row sortable">
+            <% menus.forEach(function(menu) { %>
+          <div class="url-card col-6 col-sm-6 col-md-4 col-xl-5a col-xxl-6a">
+          <div class="url-body default">
+            <a href="<% if (theme.ctr.enable) { %><%= config.url %>/go/?url=<% } %><%= url_for(menu.url) %>"  target="_blank" data-url="<%= url_for(menu.url) %>" class="card no-c mb-4" data-placement="bottom" data-toggle="tooltip" data-original-title="<%= menu.description %>">
+                  <div class="card-body">
+                      <div class="url-content d-flex align-items-center">
+                          <div class="url-img mr-2 d-flex align-items-center justify-content-center">
+                            <% if (theme.icoapi.enable) { %>
+                              <img class="lazy" data-src="<%= theme.icoapi.url %><%= menu.url %>" >
+                              <% } else { %>
+                                <img class="lazy" data-src="<%= theme.icoapi.cdn %><%= menu.img %>" >
+                              <% } %>
+                          </div>
+                          <div class="url-info flex-fill">
+                              <div class="text-sm overflowClip_1">
+                                  <strong><%= menu.name %></strong>
+                              </div>
+                              <p class="overflowClip_1 m-0 text-muted text-xs"><%= menu.description %></p>
+                          </div>
+                      </div>
+                  </div>
+              </a>
+          </div>
+      </div>
+        <% }) %>
+</div>
+<br />

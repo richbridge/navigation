@@ -1,0 +1,132 @@
+cdn: / #静态文件与主站用的，例如填写https://aa.com/ 注意末尾要加上/ 以下各种链接都会加上这个前缀，注意字体文件跨域问题。
+favicon: https://files.seeusercontent.com/2026/03/16/xoG7/favicon.ico
+headerbg: headerbg/13.html #头部背景特效,内置13个特效,可以直接访问headerbg/*.html 查看
+
+icoapi:
+  enable: true #开启后，数据文件里的ICO失效。
+  url: 'https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=256&url=' # 填写ICO API的URL
+
+ctr:  #通过第三方统计服务，统计网址点击频次
+  enable: true #开启后，使用/go/?url= 跳转，需要输入命令hexo new page go 创建页面
+  code: '<script> var _hmt = _hmt || [];(function() {var hm = document.createElement("script");hm.src = "https://hm.baidu.com/hm.js?062685e39e06f9947b865df2e13901f7";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s);})();</script>' # 填写第三方统计代码，要求能显示详细受访页面。
+
+lytoday:
+  enable: true #启用今日热榜功能，该接口每天免费访问次数为500次。
+  url: https://lytoday.lylme.com/?day=60s&hot=weibo,douyin,zhihu # 在https://lytoday.lylme.com/code.html生成你的接口地址 填入这里
+
+qweather: '<div class="rounded-circle weather"><div id="he-plugin-simple" style="display: contents;"></div><iframe scrolling="no" src="https://widget.tianqiapi.com/?style=te&skin=pitaya&color=FFFFFF&paddingtop=6" frameborder="0" width="200" height="24" allowtransparency="true"></iframe></div>' #顶部导航栏天气预报代码
+
+custom:
+  head: |- # 以下内容插入到<head></head>标签内，可设置多行，注意每行开头至少四个空格
+    <!-- 直接添加html内容即可 -->
+    <!-- 可设置多行 -->
+  foot: |- # 以下内容插入到</body>标签之前，可设置多行，注意每行开头至少四个空格 注意单个代码不能有换行。
+    Copyright © <a target="_blank" href="">樊笼</a>
+    <script>var _hmt = _hmt || [];(function() {var hm = document.createElement("script");hm.src = "https://hm.baidu.com/hm.js?062685e39e06f9947b865df2e13901f7";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s);})();</script>
+
+
+
+logo:
+  iconlight: images/logo.png
+  icondark: images/logo.png
+  light: images/logo-light.png
+  dark: images/logo-dark.png
+
+#网址分类 config值 对应在数据文件名称
+menu:
+  - name: 常用网址
+    icon: fa fa-fire
+    config: 01x
+  - name: 常用工具
+    icon: fa fa-cut
+    config: 02x
+  - name: 码农专区
+    icon: fa fa-code
+    config: 03x
+    submenu:
+      - name: 资讯社区
+        icon: fa fa-caret-right
+        config: 03x01
+      - name: 站长工具
+        icon: fa fa-caret-right
+        config: 03x02
+      - name: 设计素材
+        icon: fa fa-caret-right
+        config: 03x03
+      - name: 前端框架
+        icon: fa fa-caret-right
+        config: 03x04
+      - name: 建站程序
+        icon: fa fa-caret-right
+        config: 03x05
+      - name: 开发平台
+        icon: fa fa-caret-right
+        config: 03x06
+      - name: SaaS
+        icon: fa fa-caret-right
+        config: 03x07
+  - name: 个站博客
+    icon: fa fa-slideshare
+    config: 04x
+    submenu:
+      - name: 博客组织
+        icon: fa fa-caret-right
+        config: 04x01
+      - name: 生活博客
+        icon: fa fa-caret-right
+        config: 04x02
+      - name: 资源博客
+        icon: fa fa-caret-right
+        config: 04x03
+  - name: 资源汇总
+    icon: fa fa-th-large
+    config: 05x
+    submenu:
+      - name: 影视资源
+        icon: fa fa-caret-right
+        config: 05x01
+      - name: 音乐资源
+        icon: fa fa-caret-right
+        config: 05x02
+      - name: 书籍小说
+        icon: fa fa-caret-right
+        config: 05x03
+      - name: 软件资源
+        icon: fa fa-caret-right
+        config: 05x04
+      - name: 资源导航
+        icon: fa fa-caret-right
+        config: 05x07
+  - name: AI 工具
+    icon: fa fa-simplybuilt
+    config: 06x
+    submenu:
+      - name: 综合应用
+        icon: fa fa-caret-right
+        config: 06x01
+      - name: 写作助手
+        icon: fa fa-caret-right
+        config: 06x02
+  - name: 育儿资源
+    icon: fa fa-odnoklassniki
+    config: 07x
+    submenu:
+      - name: 资源下载
+        icon: fa fa-arrow-circle-down
+        config: 07x01
+
+footmenu:
+  # - name: 在线留言
+  #   icon: fa fa-commenting-o
+  #   url: https://kok.plus/comments/
+  - name: 网站提交
+    icon: fa fa-pencil
+    url: https://f.wps.cn/g/HfXNRDWt/
+
+headmenu:
+  - name: 樊笼
+    icon: fa fa-user-circle-o
+    url: https://252262.xyz
+  # - name: 本站源码
+  #   icon: fa fa-file-code-o
+  #   url: https://kok.plus/hexonav
