@@ -1,5 +1,5 @@
 cdn: / #静态文件与主站用的，例如填写https://aa.com/ 注意末尾要加上/ 以下各种链接都会加上这个前缀，注意字体文件跨域问题。
-favicon: favicon.ico
+favicon: https://files.seeusercontent.com/2026/03/16/xoG7/favicon.ico
 headerbg: headerbg/13.html #头部背景特效,内置13个特效,可以直接访问headerbg/*.html 查看
 
 icoapi:
@@ -21,16 +21,16 @@ custom:
     <!-- 直接添加html内容即可 -->
     <!-- 可设置多行 -->
   foot: |- # 以下内容插入到</body>标签之前，可设置多行，注意每行开头至少四个空格 注意单个代码不能有换行。
-    Copyright © <a target="_blank" href="">HexoNav</a>
+    Copyright © <a target="_blank" href="">樊笼</a>
     <script>var _hmt = _hmt || [];(function() {var hm = document.createElement("script");hm.src = "https://hm.baidu.com/hm.js?062685e39e06f9947b865df2e13901f7";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s);})();</script>
 
 
 
 logo:
-  iconlight: images/logo.png
-  icondark: images/logo.png
-  light: images/logo-light.png
-  dark: images/logo-dark.png
+  iconlight: https://files.seeusercontent.com/2026/04/08/jo2D/logo.png
+  icondark: https://files.seeusercontent.com/2026/04/08/jo2D/logo.png
+  light: https://files.seeusercontent.com/2026/04/08/g0mD/logo-light.png
+  dark: https://files.seeusercontent.com/2026/04/08/Aj2s/logo-dark.png
 
 #网址分类 config值 对应在数据文件名称
 menu:
@@ -124,9 +124,9 @@ footmenu:
     url: https://f.wps.cn/g/HfXNRDWt/
 
 headmenu:
-  - name: KOK博客
+  - name: 樊笼
     icon: fa fa-user-circle-o
-    url: https://kok.plus
+    url: https://252262.xyz
   # - name: 本站源码
   #   icon: fa fa-file-code-o
   #   url: https://kok.plus/hexonav

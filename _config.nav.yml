@@ -27,10 +27,10 @@ custom:
 
 
 logo:
-  iconlight: images/logo.png
-  icondark: images/logo.png
-  light: images/logo-light.png
-  dark: images/logo-dark.png
+  iconlight: https://files.seeusercontent.com/2026/04/08/jo2D/logo.png
+  icondark: https://files.seeusercontent.com/2026/04/08/jo2D/logo.png
+  light: https://files.seeusercontent.com/2026/04/08/g0mD/logo-light.png
+  dark: https://files.seeusercontent.com/2026/04/08/Aj2s/logo-dark.png
 
 #网址分类 config值 对应在数据文件名称
 menu:
