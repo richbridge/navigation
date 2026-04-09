@@ -1,4 +1,12 @@
-- name: KOK博客
-  url: https://kok.plus
-  img: https://p.kok.plus/kokblog/favicon.ico
-  description: 用一段文字记录生活。
+- name: 招金集团数字化运营服务平台
+  url: http://221.214.208.49:8022/ierp/
+  img: https://www.gold-zhaoyuan.com/upload/images/vi_logo.png
+  description: 金蝶云苍穹
+- name: 招金集团财务影像系统
+  url: http://172.18.0.80:9000/webpc/
+  img: https://www.gold-zhaoyuan.com/upload/images/vi_logo.png
+  description: 国信合成影像系统
+- name: 招金集团易招金智能审批系统
+  url: https://xt.zhaojin.com.cn/cloudflow/home/
+  img: https://www.gold-zhaoyuan.com/upload/images/vi_logo.png
+  description: 易招金

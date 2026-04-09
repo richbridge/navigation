@@ -3,11 +3,11 @@ favicon: https://files.seeusercontent.com/2026/03/16/xoG7/favicon.ico
 headerbg: headerbg/13.html #头部背景特效,内置13个特效,可以直接访问headerbg/*.html 查看
 
 icoapi:
-  enable: true #开启后，数据文件里的ICO失效。
+  enable: false #开启后，数据文件里的ICO失效。
   url: 'https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=256&url=' # 填写ICO API的URL
 
 ctr:  #通过第三方统计服务，统计网址点击频次
-  enable: true #开启后，使用/go/?url= 跳转，需要输入命令hexo new page go 创建页面
+  enable: false #开启后，使用/go/?url= 跳转，需要输入命令hexo new page go 创建页面
   code: '<script> var _hmt = _hmt || [];(function() {var hm = document.createElement("script");hm.src = "https://hm.baidu.com/hm.js?062685e39e06f9947b865df2e13901f7";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s);})();</script>' # 填写第三方统计代码，要求能显示详细受访页面。
 
 lytoday:
@@ -37,83 +37,86 @@ menu:
   - name: 常用网址
     icon: fa fa-fire
     config: 01x
+  - name: 我的网站
+    icon: fa fa-medium
+    config: 02x
   - name: 常用工具
     icon: fa fa-cut
-    config: 02x
+    config: 03x
   - name: 码农专区
     icon: fa fa-code
-    config: 03x
+    config: 04x
     submenu:
       - name: 资讯社区
         icon: fa fa-caret-right
-        config: 03x01
+        config: 04x01
       - name: 站长工具
         icon: fa fa-caret-right
-        config: 03x02
+        config: 04x02
       - name: 设计素材
         icon: fa fa-caret-right
-        config: 03x03
+        config: 04x03
       - name: 前端框架
         icon: fa fa-caret-right
-        config: 03x04
+        config: 04x04
       - name: 建站程序
         icon: fa fa-caret-right
-        config: 03x05
+        config: 04x05
       - name: 开发平台
         icon: fa fa-caret-right
-        config: 03x06
-      - name: SaaS
+        config: 04x06
+      - name: 网盘解析
         icon: fa fa-caret-right
-        config: 03x07
+        config: 04x07
   - name: 个站博客
     icon: fa fa-slideshare
-    config: 04x
+    config: 05x
     submenu:
       - name: 博客组织
         icon: fa fa-caret-right
-        config: 04x01
+        config: 05x01
       - name: 生活博客
         icon: fa fa-caret-right
-        config: 04x02
+        config: 05x02
       - name: 资源博客
         icon: fa fa-caret-right
-        config: 04x03
+        config: 05x03
   - name: 资源汇总
     icon: fa fa-th-large
-    config: 05x
+    config: 06x
     submenu:
       - name: 影视资源
         icon: fa fa-caret-right
-        config: 05x01
+        config: 06x01
       - name: 音乐资源
         icon: fa fa-caret-right
-        config: 05x02
+        config: 06x02
       - name: 书籍小说
         icon: fa fa-caret-right
-        config: 05x03
+        config: 06x03
       - name: 软件资源
         icon: fa fa-caret-right
-        config: 05x04
+        config: 06x04
       - name: 资源导航
         icon: fa fa-caret-right
-        config: 05x07
+        config: 06x07
   - name: AI 工具
     icon: fa fa-simplybuilt
-    config: 06x
+    config: 07x
     submenu:
       - name: 综合应用
         icon: fa fa-caret-right
-        config: 06x01
+        config: 07x01
       - name: 写作助手
         icon: fa fa-caret-right
-        config: 06x02
+        config: 07x02
   - name: 育儿资源
     icon: fa fa-odnoklassniki
-    config: 07x
+    config: 08x
     submenu:
       - name: 资源下载
         icon: fa fa-arrow-circle-down
-        config: 07x01
+        config: 08x01
 
 footmenu:
   # - name: 在线留言

@@ -1,0 +1,12 @@
+- name: WPList
+  url: https://jx.os3.cn/
+  img: https://jx.os3.cn/favicon.svg
+  description: QQ交流群964913875
+- name: kdown
+  url: https://kdown.moiu.cn/free/#/index
+  img: https://kdown.moiu.cn/favicon.ico
+  description: 免费的百度网盘解析工具
+- name: 网盘解析-VIP
+  url: https://hy.os3.cn/
+  img: https://hy.os3.cn/favicon.ico
+  description: VIP
