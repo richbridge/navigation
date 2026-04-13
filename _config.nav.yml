@@ -44,15 +44,25 @@ menu:
     icon: fa fa-cut
     config: 03x
   - name: 常用网址
-    icon: fa fa-code
+    icon: fa fa-file
     config: 04x
     submenu:
       - name: 资讯社区
-        icon: fa fa-caret-right
+        icon: fa fa-bell
         config: 04x01
       - name: 网盘解析
-        icon: fa fa-caret-right
+        icon: fa fa-cloud
         config: 04x02
+  - name: 编程文档
+    icon: fa fa-code
+    config: 05x
+    submenu:
+      - name: Java
+        icon: fa fa-caret-right
+        config: 05x01
+      - name: Python
+        icon: fa fa-product-hunt
+        config: 05x02
 
 footmenu:
   # - name: 在线留言
