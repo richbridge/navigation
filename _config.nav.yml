@@ -35,34 +35,86 @@ logo:
 #网址分类 config值 对应在数据文件名称
 menu:
   - name: 工作网址
-    icon: fa fa-fire
+    icon: fa fa-briefcase
     config: 01x
+    submenu:
+      - name: 金融证券
+        icon: fa fa-chart-line
+        config: 01x01
+      - name: 企业查询
+        icon: fa fa-building
+        config: 01x02
+      - name: 内部系统
+        icon: fa fa-server
+        config: 01x03
+
   - name: 我的网站
-    icon: fa fa-medium
+    icon: fa fa-star
     config: 02x
+    submenu:
+      - name: 常用收藏
+        icon: fa fa-heart
+        config: 02x01
+      - name: 工具站点
+        icon: fa fa-tools
+        config: 02x02
+
   - name: 常用工具
     icon: fa fa-cut
     config: 03x
+    submenu:
+      - name: 在线工具
+        icon: fa fa-globe
+        config: 03x01
+      - name: 文档处理
+        icon: fa fa-file-alt
+        config: 03x02
+      - name: 开发工具
+        icon: fa fa-code
+        config: 03x03
+      - name: 网盘工具
+        icon: fa fa-cloud-upload-alt
+        config: 03x04
+
   - name: 常用网址
     icon: fa fa-file
     config: 04x
     submenu:
       - name: 资讯社区
-        icon: fa fa-bell
+        icon: fa fa-newspaper
         config: 04x01
-      - name: 网盘解析
-        icon: fa fa-cloud
+      - name: 技术社区
+        icon: fa fa-users
         config: 04x02
+      - name: AI导航
+        icon: fa fa-robot
+        config: 04x03
+      - name: 网盘解析
+        icon: fa fa-cloud-download-alt
+        config: 04x04
+      - name: 学术资源
+        icon: fa fa-graduation-cap
+        config: 04x05
+
   - name: 编程文档
     icon: fa fa-code
     config: 05x
     submenu:
       - name: Java
-        icon: fa fa-caret-right
+        icon: fa fa-coffee
         config: 05x01
       - name: Python
-        icon: fa fa-product-hunt
+        icon: fa fa-python
         config: 05x02
+      - name: JavaScript
+        icon: fa fa-js
+        config: 05x03
+      - name: 数据库
+        icon: fa fa-database
+        config: 05x04
+      - name: 运维
+        icon: fa fa-server
+        config: 05x05
 
 footmenu:
   # - name: 在线留言

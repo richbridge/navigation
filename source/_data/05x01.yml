@@ -1,4 +1,24 @@
-- name: Sa-Token
-  url: https://sa-token.cc/
-  img: https://sa-token.cc/logo.png
-  description: java权限认证框架
+- name: Java官网
+  url: https://www.oracle.com/java/
+  img: https://www.oracle.com/favicon.ico
+  description: Oracle官方Java技术主页，提供JDK下载、文档、教程等资源
+- name: 菜鸟教程-Java
+  url: https://www.runoob.com/java/java-tutorial.html
+  img: https://www.runoob.com/favicon.ico
+  description: Java基础教程，适合初学者快速入门
+- name: IntelliJ IDEA
+  url: https://www.jetbrains.com/idea/
+  img: https://www.jetbrains.com/favicon.ico
+  description: 业界公认最优秀的Java开发IDE，提供智能代码补全、重构、调试等功能
+- name: Eclipse
+  url: https://www.eclipse.org/
+  img: https://www.eclipse.org/favicon.ico
+  description: 流行的开源Java IDE，支持多种编程语言和丰富的插件生态
+- name: JavaGuide
+  url: https://javaguide.cn/
+  img: https://javaguide.cn/favicon.ico
+  description: 一份涵盖大部分Java程序员所需要掌握的核心知识的开源文档
+- name: 并发编程网
+  url: http://ifeve.com/
+  img: http://ifeve.com/favicon.ico
+  description: 专注于Java并发编程的社区，翻译和分享并发领域的技术文章

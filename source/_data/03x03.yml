@@ -1,0 +1,24 @@
+- name: Visual Studio Code
+  url: https://code.visualstudio.com/
+  img: https://code.visualstudio.com/favicon.ico
+  description: 微软出品的轻量级代码编辑器，支持多种语言开发和扩展插件
+- name: Git
+  url: https://git-scm.com/
+  img: https://git-scm.com/favicon.ico
+  description: 分布式版本控制系统，代码管理和团队协作的标配工具
+- name: Postman
+  url: https://www.postman.com/
+  img: https://www.postman.com/_mk-www-next/favicon.ico
+  description: 强大的API开发和测试工具，支持接口调试、自动化测试、Mock服务
+- name: Swagger
+  url: https://swagger.io/
+  img: https://static1.smartbear.co/swagger/media/assets/swagger_fav.png
+  description: API文档生成和调试工具，支持OpenAPI规范
+- name: Docker Hub
+  url: https://hub.docker.com/
+  img: https://hub.docker.com/favicon.ico
+  description: Docker官方镜像仓库，查找和分享容器镜像
+- name: Nginx
+  url: https://nginx.org/
+  img: https://nginx.org/favicon.ico
+  description: 高性能的HTTP和反向代理服务器，广泛用于Web服务和负载均衡

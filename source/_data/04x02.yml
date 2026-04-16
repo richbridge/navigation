@@ -10,3 +10,35 @@
   url: https://hy.os3.cn/
   img: https://hy.os3.cn/favicon.ico
   description: VIP
+- name: GitHub
+  url: https://github.com/
+  img: https://github.com/favicon.ico
+  description: 全球最大的开发者社区和代码托管平台，探索和参与开源项目
+- name: Gitee
+  url: https://gitee.com/
+  img: https://gitee.com/favicon.ico
+  description: 国内知名的代码托管平台，提供稳定的本地化服务，汇聚众多国产开源项目
+- name: Stack Overflow
+  url: https://stackoverflow.com/
+  img: https://stackoverflow.com/favicon.ico
+  description: 全球最受信赖的开发者技术问答社区，遇到编程难题时的首选求助地
+- name: 掘金
+  url: https://juejin.cn/
+  img: https://juejin.cn/favicon.ico
+  description: 面向互联网技术人的内容分享社区，可以发现优质的技术文章和行业资讯
+- name: CSDN
+  url: https://www.csdn.net/
+  img: https://www.csdn.net/favicon.ico
+  description: 中国最大的IT技术社区，提供技术文章、博客、论坛、资源下载等
+- name: 博客园
+  url: https://www.cnblogs.com/
+  img: https://www.cnblogs.com/favicon.ico
+  description: 开发者的知识分享社区，专注于技术博客和知识沉淀
+- name: V2EX
+  url: https://www.v2ex.com/
+  img: https://www.v2ex.com/favicon.ico
+  description: 创意工作者们的社区，讨论编程、设计、硬件、互联网等话题
+- name: LeetCode
+  url: https://leetcode.cn/
+  img: https://leetcode.cn/favicon.ico
+  description: 程序员刷题备战面试的网站，提供海量算法题库和面试真题

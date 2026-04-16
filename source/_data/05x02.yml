@@ -1,0 +1,56 @@
+- name: Python官网
+  url: https://www.python.org/
+  img: https://www.python.org/favicon.ico
+  description: Python官方主页，提供Python解释器下载、文档、库索引等资源
+- name: PyPI
+  url: https://pypi.org/
+  img: https://pypi.org/favicon.ico
+  description: Python官方第三方库仓库，查找和安装超过数十万个Python包
+- name: 菜鸟教程-Python
+  url: https://www.runoob.com/python3/python3-tutorial.html
+  img: https://www.runoob.com/favicon.ico
+  description: Python3基础教程，适合快速入门和查阅语法
+- name: PyCharm
+  url: https://www.jetbrains.com/pycharm/
+  img: https://www.jetbrains.com/favicon.ico
+  description: JetBrains出品的专业Python IDE，提供代码分析、调试、测试等全套功能
+- name: Jupyter Notebook
+  url: https://jupyter.org/
+  img: https://jupyter.org/favicon.ico
+  description: 交互式笔记本工具，广泛用于数据清洗、数据可视化、机器学习等领域
+- name: NumPy
+  url: https://numpy.org/
+  img: https://numpy.org/images/favicon.ico
+  description: Python科学计算的基础库，提供高性能的多维数组对象和计算工具
+- name: Pandas
+  url: https://pandas.pydata.org/
+  img: https://pandas.pydata.org/static/img/favicon.ico
+  description: 强大的数据分析和处理工具，提供DataFrame等数据结构
+- name: TensorFlow
+  url: https://tensorflow.google.cn/
+  img: https://tensorflow.google.cn/favicon.ico
+  description: Google开源的机器学习框架，用于构建和训练AI模型
+- name: PyTorch
+  url: https://pytorch.org/
+  img: https://pytorch.org/favicon.ico
+  description: Facebook开源的深度学习框架，动态计算图设计使其易于调试和使用
+- name: FastAPI
+  url: https://fastapi.tiangolo.com/
+  img: https://fastapi.tiangolo.com/img/favicon.png
+  description: 现代化的高性能Python Web框架，基于Python类型提示，自动生成API文档
+- name: Django
+  url: https://www.djangoproject.com/
+  img: https://www.djangoproject.com/favicon.ico
+  description: 功能强大的Python Web框架，内置ORM、Admin、表单等组件，适合快速开发
+- name: Flask
+  url: https://flask.palletsprojects.com/
+  img: https://flask.palletsprojects.com/favicon.ico
+  description: 轻量级的Python Web框架，灵活简洁，适合小型应用和微服务
+- name: Requests
+  url: https://requests.readthedocs.io/
+  img: https://requests.readthedocs.io/favicon.ico
+  description: 简洁优雅的HTTP库，被称为"给人类使用的HTTP库"
+- name: Scrapy
+  url: https://scrapy.org/
+  img: https://www.scrapy.org/favicon/scrapy-favicon.svg
+  description: 强大的Python爬虫框架，用于提取结构化数据，支持异步和高性能
