@@ -1,6 +1,6 @@
 cdn:  #静态文件与主站用的，例如填写https://aa.com/ 注意末尾要加上/ 以下各种链接都会加上这个前缀，注意字体文件跨域问题。
 favicon: https://files.seeusercontent.com/2026/03/16/xoG7/favicon.ico
-headerbg: headerbg/13.html #头部背景特效,内置13个特效,可以直接访问headerbg/*.html 查看
+headerbg: headerbg/12.html #头部背景特效,内置13个特效,可以直接访问headerbg/*.html 查看
 
 icoapi:
   enable: false #开启后，数据文件里的ICO失效。
@@ -24,8 +24,6 @@ custom:
     Copyright © <a target="_blank" href="">樊笼</a>
     <script>var _hmt = _hmt || [];(function() {var hm = document.createElement("script");hm.src = "https://hm.baidu.com/hm.js?062685e39e06f9947b865df2e13901f7";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s);})();</script>
 
-
-
 logo:
   iconlight: https://files.seeusercontent.com/2026/04/08/jo2D/logo.png
   icondark: https://files.seeusercontent.com/2026/04/08/jo2D/logo.png
@@ -48,16 +46,22 @@ menu:
         icon: fa fa-server
         config: 01x03
 
-  - name: 我的网站
+  - name: 常用网址
     icon: fa fa-star
     config: 02x
     submenu:
       - name: 常用收藏
         icon: fa fa-heart
         config: 02x01
-      - name: 工具站点
+      - name: AI工具
         icon: fa fa-tools
         config: 02x02
+      - name: 我的网站
+        icon: fa fa-tools
+        config: 02x03
+      - name: 编程工具
+        icon: fa fa-tools
+        config: 02x04
 
   - name: 常用工具
     icon: fa fa-cut
@@ -75,46 +79,6 @@ menu:
       - name: 网盘工具
         icon: fa fa-cloud-upload-alt
         config: 03x04
-
-  - name: 常用网址
-    icon: fa fa-file
-    config: 04x
-    submenu:
-      - name: 资讯社区
-        icon: fa fa-newspaper
-        config: 04x01
-      - name: 技术社区
-        icon: fa fa-users
-        config: 04x02
-      - name: AI导航
-        icon: fa fa-robot
-        config: 04x03
-      - name: 网盘解析
-        icon: fa fa-cloud-download-alt
-        config: 04x04
-      - name: 学术资源
-        icon: fa fa-graduation-cap
-        config: 04x05
-
-  - name: 编程文档
-    icon: fa fa-code
-    config: 05x
-    submenu:
-      - name: Java
-        icon: fa fa-coffee
-        config: 05x01
-      - name: Python
-        icon: fa fa-python
-        config: 05x02
-      - name: JavaScript
-        icon: fa fa-js
-        config: 05x03
-      - name: 数据库
-        icon: fa fa-database
-        config: 05x04
-      - name: 运维
-        icon: fa fa-server
-        config: 05x05
 
 footmenu:
   # - name: 在线留言

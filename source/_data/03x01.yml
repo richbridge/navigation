@@ -14,19 +14,7 @@
   url: https://fanyi.baidu.com/
   img: https://fanyi.baidu.com/favicon.ico
   description: 支持200+语言互译的在线翻译工具，提供文档翻译、拍照翻译等功能
-- name: DeepL翻译
-  url: https://www.deepl.com/translator
-  img: https://www.deepl.com/favicon.ico
-  description: 以翻译自然、准确著称的AI翻译工具，支持多语言文档翻译
-- name: 在线工具 - 工具箱
-  url: https://tool.lu/
-  img: https://tool.lu/favicon.ico
-  description: 程序员在线工具箱，提供时间戳转换、JSON格式化、正则测试等实用功能
 - name: JSON.cn
   url: https://www.json.cn/
   img: https://www.json.cn/favicon.ico
   description: 在线JSON格式化、校验、压缩工具，支持JSON转XML、CSV等格式
-- name: 即时工具
-  url: https://www.67tool.com/
-  img: https://www.67tool.com/favicon.ico
-  description: 免费在线工具箱，包含视频处理、音频处理、图片处理、文档转换等

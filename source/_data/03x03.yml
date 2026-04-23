@@ -10,15 +10,15 @@
   url: https://www.postman.com/
   img: https://www.postman.com/_mk-www-next/favicon.ico
   description: 强大的API开发和测试工具，支持接口调试、自动化测试、Mock服务
-- name: Swagger
-  url: https://swagger.io/
-  img: https://static1.smartbear.co/swagger/media/assets/swagger_fav.png
-  description: API文档生成和调试工具，支持OpenAPI规范
-- name: Docker Hub
-  url: https://hub.docker.com/
-  img: https://hub.docker.com/favicon.ico
-  description: Docker官方镜像仓库，查找和分享容器镜像
-- name: Nginx
-  url: https://nginx.org/
-  img: https://nginx.org/favicon.ico
-  description: 高性能的HTTP和反向代理服务器，广泛用于Web服务和负载均衡
+- name: hutool
+  url: https://hutool.cn/
+  img: https://hutool.cn/favicon.ico
+  description: Java工具类库，简化Java开发流程
+- name: Sa-Token
+  url: https://sa-token.cc/
+  img: https://sa-token.cc/logo.png
+  description: 轻量级Java权限认证框架，功能强大、简单易用
+- name: ThinkPHP
+  url: https://www.thinkphp.cn/
+  img: https://www.thinkphp.cn/favicon.ico
+  description: PHP开源框架，功能丰富、性能高效

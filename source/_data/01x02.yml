@@ -1,3 +1,15 @@
+- name: 风鸟
+  url: https://riskbird.com/
+  img: https://riskbird.com/favicon.ico
+  description: 企业工商信息查询工具
+- name: 企知道
+  url: https://www.qizhidao.com/
+  img: https://www.qizhidao.com/favicon.ico
+  description: 全球科创大数据AI平台
+- name: 爱企查
+  url: https://aiqicha.baidu.com/
+  img: https://xinpub.cdn.bcebos.com/static/favicon.ico
+  description: 百度推出的企业信用查询工具
 - name: 天眼查
   url: https://www.tianyancha.com/
   img: https://www.tianyancha.com/favicon.ico
@@ -10,10 +22,6 @@
   url: https://shiming.gsxt.gov.cn
   img: http://www.locpg.gov.cn/zggq/2014-01/04/125956244_16097592458221n.png
   description: 官方企业信用信息公示平台，查询企业工商注册信息
-- name: 风鸟
-  url: https://riskbird.com/
-  img: https://riskbird.com/favicon.ico
-  description: 企业工商信息查询工具
 - name: 启信宝
   url: https://www.qixin.com/
   img: https://www.qixin.com/favicon.ico

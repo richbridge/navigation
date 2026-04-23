@@ -1,44 +1,40 @@
-- name: cybermania
-  url: https://www.cybermania.ws/
-  img: https://www.cybermania.ws/wp-content/uploads/CyberMania.png
-  description: 破解软件资源站（请确认内容合法性）
-- name: GITHUB
-  url: https://github.com/richbridge?tab=repositories
-  img: https://github.githubassets.com/favicons/favicon.png
-  description: 仓库
-- name: 樊笼 - 复得返自然
-  url: https://262252.xyz/
-  img: https://262252.xyz/favicon.ico
-  description: 个人导航网站，收集各类实用工具和资源
 - name: 深度求索 DeepSeek
   url: https://chat.deepseek.com/
   img: https://fe-static.deepseek.com/chat/favicon.svg
   description: 深度求索AI助手，免费强大，支持超长上下文
-- name: Sa-Token
-  url: https://sa-token.cc/
-  img: https://sa-token.cc/logo.png
-  description: 轻量级Java权限认证框架，功能强大、简单易用
-- name: GitHub
-  url: https://github.com/
-  img: https://github.com/favicon.ico
-  description: 全球最大的代码托管平台和开发者社区
-- name: remove
-  url: https://www.remove.bg/zh
-  img: https://www.remove.bg/favicon-32x32.png
-  description: 图片去除背景
-- name: deepseek
-  url: https://chat.deepseek.com/
-  img: https://fe-static.deepseek.com/chat/favicon.svg
-  description: 深度求索（DeepSeek）
-- name: V2free机场
-  url: https://go.tofly.cyou
-  img: https://go.tofly.cyou/favicon.ico
-  description: 高速V2ray机场翻墙服务
-- name: 风鸟
-  url: https://riskbird.com
-  img: https://riskbird.com/favicon.ico
-  description: 企业工商信息查询
-- name: cybermania
-  url: https://www.cybermania.ws/
-  img: https://www.cybermania.ws/wp-content/uploads/CyberMania.png
-  description: 破解软件
+- name: WPS 灵犀
+  url: https://lingxi.wps.cn/
+  img: https://qn.cache.wpscdn.cn/copilot-test/copilot-cdn/images/copilot/lingxi_logo_64_v1.png
+  description: 一切为了创作
+- name: 豆包
+  url: https://www.doubao.com/
+  img: https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao/web/doubao_avatar.png
+  description: AI 聊天智能对话问答助手
+- name: 千问
+  url: https://www.qianwen.com/
+  img: https://img.alicdn.com/imgextra/i4/O1CN01uar8u91DHWktnF2fl_!!6000000000191-2-tps-110-110.png
+  description: 阿里 AI 助手
+- name: 元宝
+  url: https://yuanbao.tencent.com
+  img: https://static.yuanbao.tencent.com/m/yuanbao-web/favicon_new@32.png
+  description: 腾讯 AI 助手
+- name: 文心一言
+  url: https://yiyan.baidu.com/
+  img: https://eb-static.cdn.bcebos.com/logo/favicon.ico
+  description: 百度 AI 助手
+- name: 智谱清言
+  url: https://yiyan.baidu.com/
+  img: https://chatglm.cn/favicon.ico
+  description: 基于 GLM-5 的全能 AI 助手
+- name: ima.copilot
+  url: https://ima.qq.com/
+  img: https://static.ima.qq.com/ima/assets/chat/favicon.svg
+  description: 腾讯AI工作台
+- name: OpenClaw
+  url: https://openclaw.ai/
+  img: https://openclaw.ai/favicon.svg
+  description: Your personal assistant on any platform.
+- name: Hermes Agent
+  url: https://hermes-agent.org/
+  img: https://hermes-agent.org/favicon.ico
+  description: 有记忆的开源 AI 智能体，越用越聪明
