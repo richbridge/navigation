@@ -14,6 +14,10 @@
   url: https://guru.kevin2li.top/
   img: https://guru.kevin2li.top/img/appicon.png
   description: 你的全平台知识枢纽，打造个人专属Anki知识库
+- name: Pdf2cards
+  url: https://pdf2cards.com/portal
+  img: https://pdf2cards.com/pdf2cards-logo.svg
+  description: Pdf2cards
 - name: ZTough
   url: https://ztough.cn/
   img: https://guru.kevin2li.top/img/appicon.png
@@ -21,4 +25,4 @@
 - name: MOGE
   url: https://moge.ai/zh/
   img: https://moge.ai/favicon.ico
-  description: 独立开发者的数字工坊
+  description: 实时 ⚡️ 收录全球最新AI工具
