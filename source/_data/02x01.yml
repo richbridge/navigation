@@ -1,3 +1,7 @@
+- name: 阿虚同学的储物间
+  url: https://axutongxue.ysepan.com/
+  img: https://axutongxue.ysepan.com/favicon.ico
+  description: 阿虚同学的储物间
 - name: remove
   url: https://www.remove.bg/zh
   img: https://www.remove.bg/favicon-32x32.png
@@ -26,3 +30,7 @@
   url: https://moge.ai/zh/
   img: https://moge.ai/favicon.ico
   description: 实时 ⚡️ 收录全球最新AI工具
+- name: 小鲤鱼
+  url: http://www.liyusoft.com/pdfwr
+  img: http://www.liyusoft.com/site/wp-content/uploads/2025/10/cropped-liyusoftlogo512x512-32x32.png
+  description: PDF水印清理专家下载地址
