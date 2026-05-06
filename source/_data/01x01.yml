@@ -1,11 +1,11 @@
-- name: 中国证监会
-  url: http://www.csrc.gov.cn/
-  img: http://www.csrc.gov.cn/favicon.ico
-  description: 中国证券期货市场最高监管机构，发布法律法规、政策信息及行政许可
 - name: 巨潮资讯网
   url: http://www.cninfo.com.cn/
   img: https://static.cninfo.com.cn/new/img/favicon.ico
   description: 中国证监会指定上市公司信息披露网站，沪市、深市、北交所、港股行情
+- name: 中国证监会
+  url: http://www.csrc.gov.cn/
+  img: http://www.csrc.gov.cn/favicon.ico
+  description: 中国证券期货市场最高监管机构，发布法律法规、政策信息及行政许可
 - name: 上海证券交易所
   url: http://www.sse.com.cn/
   img: https://www.sse.com.cn/xhtml/images/favicon.ico
@@ -22,15 +22,3 @@
   url: http://www.neeq.com.cn/
   img: https://www.neeq.com.cn/template/1/bluewise/_files/img/favicon.ico
   description: 新三板（全国性证券交易场所）官方网站，提供挂牌公司信息披露与交易行情
-- name: 东方财富
-  url: https://www.eastmoney.com/
-  img: https://www.eastmoney.com/favicon.ico
-  description: 国内领先的财经证券门户网站，提供行情数据、财经资讯、股吧社区
-- name: 同花顺
-  url: https://www.10jqka.com.cn/
-  img: https://www.10jqka.com.cn/favicon.ico
-  description: 专业的互联网金融数据服务商，提供实时行情、数据分析、理财服务
-- name: 雪球
-  url: https://xueqiu.com/
-  img: https://xueqiu.com/favicon.ico
-  description: 投资社区和交易平台，汇聚众多投资者分享投资理念和策略

@@ -62,6 +62,9 @@ menu:
       - name: 编程工具
         icon: fa fa-tools
         config: 02x04
+      - name: 网盘工具
+        icon: fa fa-cloud-upload-alt
+        config: 02x05
 
   - name: 常用工具
     icon: fa fa-cut
@@ -76,9 +79,6 @@ menu:
       - name: 开发工具
         icon: fa fa-code
         config: 03x03
-      - name: 网盘工具
-        icon: fa fa-cloud-upload-alt
-        config: 03x04
 
 footmenu:
   # - name: 在线留言
