@@ -30,3 +30,7 @@
   url: https://hutool.cn/
   img: https://hutool.cn/favicon.ico
   description: Java工具类库，简化Java开发流程
+- name: CloudFlare ImgBed
+  url: https://cfbed.sanyue.de/
+  img: https://cfbed.sanyue.de/logo.png
+  description: 开源文件托管解决方案
