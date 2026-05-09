@@ -1,8 +1,0 @@
-- name: Sa-Token
-  url: https://sa-token.cc/
-  img: https://sa-token.cc/logo.png
-  description: 轻量级Java权限认证框架，功能强大、简单易用
-- name: GitHub
-  url: https://github.com/
-  img: https://github.com/favicon.ico
-  description: 全球最大的代码托管平台和开发者社区

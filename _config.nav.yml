@@ -45,6 +45,9 @@ menu:
       - name: 内部系统
         icon: fa fa-server
         config: 01x03
+      - name: AI工具
+        icon: fa fa-tools
+        config: 01x04
 
   - name: 常用网址
     icon: fa fa-star
@@ -53,18 +56,12 @@ menu:
       - name: 常用收藏
         icon: fa fa-heart
         config: 02x01
-      - name: AI工具
-        icon: fa fa-tools
-        config: 02x02
       - name: 我的网站
         icon: fa fa-tools
-        config: 02x03
+        config: 02x02
       - name: 编程工具
         icon: fa fa-tools
-        config: 02x04
-      - name: 网盘工具
-        icon: fa fa-cloud-upload-alt
-        config: 02x05
+        config: 02x03
 
   - name: 常用工具
     icon: fa fa-cut

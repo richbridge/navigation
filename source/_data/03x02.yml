@@ -6,19 +6,19 @@
   url: https://docs.qq.com/
   img: https://docs.idqqimg.com/tim/docs/desktop/favicon.ico
   description: 支持多人在线协作的免费文档、表格、幻灯片工具，功能强大
-- name: 百度翻译
-  url: https://fanyi.baidu.com/
-  img: https://fanyi.baidu.com/favicon.ico
-  description: 支持200+语言互译的在线翻译工具，提供文档翻译、拍照翻译等功能
-- name: DeepL翻译
-  url: https://www.deepl.com/translator
-  img: https://www.deepl.com/favicon.ico
-  description: 以翻译自然、准确著称的AI翻译工具，支持多语言文档翻译
-- name: 阿里云盘
-  url: https://www.aliyundrive.com/
-  img: https://www.aliyundrive.com/favicon.ico
-  description: 阿里云推出的个人云存储服务，上传下载不限速
 - name: 蓝奏云
   url: https://www.lanzou.com/
-  img: https://www.lanzou.com/favicon.ico
+  img: https://up.woozooo.com/favicon.ico
   description: 国内流行的免费文件分享平台，适合分享小型文件
+- name: PDF Guru Anki
+  url: https://guru.kevin2li.top/
+  img: https://guru.kevin2li.top/img/appicon.png
+  description: 你的全平台知识枢纽，打造个人专属Anki知识库
+- name: Pdf2cards
+  url: https://pdf2cards.com/portal
+  img: https://pdf2cards.com/pdf2cards-logo.svg
+  description: Pdf2cards
+- name: ZTough
+  url: https://ztough.cn/
+  img: https://i0.hdslb.com/bfs/face/aa38e8e822fa4b3cc2a3b8a68e5ea8aff85673a9.jpg@128w_128h_1c_1s.webp
+  description: 独立开发者的数字工坊
